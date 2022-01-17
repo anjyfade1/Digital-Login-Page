@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Digital-Login-Page/static/css/main.f6f2113c.chunk.css",
+    "main.js": "/Digital-Login-Page/static/js/main.bd3dbefc.chunk.js",
+    "main.js.map": "/Digital-Login-Page/static/js/main.bd3dbefc.chunk.js.map",
+    "runtime-main.js": "/Digital-Login-Page/static/js/runtime-main.f7f17b07.js",
+    "runtime-main.js.map": "/Digital-Login-Page/static/js/runtime-main.f7f17b07.js.map",
+    "static/js/2.d91e5e56.chunk.js": "/Digital-Login-Page/static/js/2.d91e5e56.chunk.js",
+    "static/js/2.d91e5e56.chunk.js.map": "/Digital-Login-Page/static/js/2.d91e5e56.chunk.js.map",
+    "index.html": "/Digital-Login-Page/index.html",
+    "static/css/main.f6f2113c.chunk.css.map": "/Digital-Login-Page/static/css/main.f6f2113c.chunk.css.map",
+    "static/js/2.d91e5e56.chunk.js.LICENSE.txt": "/Digital-Login-Page/static/js/2.d91e5e56.chunk.js.LICENSE.txt",
+    "static/media/clip.77035d6a.png": "/Digital-Login-Page/static/media/clip.77035d6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7f17b07.js",
+    "static/js/2.d91e5e56.chunk.js",
+    "static/css/main.f6f2113c.chunk.css",
+    "static/js/main.bd3dbefc.chunk.js"
+  ]
+}
