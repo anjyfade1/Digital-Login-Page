@@ -2,11 +2,11 @@
 
 This project was bootstrapped with react app
 
-using create react app to work on this project (login page)
+Using create react app to work on this project (login page).
+In this project the user is allowed to login into their Digital account 
 
-## Creating different ui components to make it easy to work on the project
 
 In the project directory, you can run:
 
-npm run start to get started with the project
+npm run start to get started with the project which will be opened in your local browser
 
