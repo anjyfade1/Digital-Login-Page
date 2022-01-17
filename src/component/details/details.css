@@ -1,0 +1,84 @@
+.details{
+    padding: 30px 40px;
+    background-color: #fff;
+}
+
+.Logo h1{
+    color: #3751FE;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.Topic p{
+    color: #3751FE;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 50px;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+}
+
+.digital-details .note{
+    color: rgba(0, 0, 0, 0.60);
+    font-size: 18px;
+}
+
+.log-button {
+    padding: 20px 0;
+}
+
+.log-button button{
+    width: 125px;
+    height: 40px;
+    outline: none;
+    cursor: pointer;
+}
+
+.log-button .log{
+    color: #fff;
+    background-color: #3751FE;
+    box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.25);
+    border: none;
+    margin: 0 20px 0 0;
+}
+
+.log-button .sign{
+    border: 1px solid #3751FE;
+    color: #3751FE;
+    background-color: #fff;
+    margin: 0 0 0 20px;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    margin: 20px 0 0;
+    font-size: 14px;
+}
+
+.link a{
+    text-decoration: none;
+    color: #3751FE;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+
+
+
+@media screen and (max-width:600px){
+    .log-button button{
+        width: 115px;
+        height: 40px;
+    }
+
+    
+    .Topic p{
+        font-size: 26px;
+        
+        word-spacing: 0px;
+        letter-spacing: 0px;
+    }
+}

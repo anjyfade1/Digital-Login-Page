@@ -1,0 +1,78 @@
+.detailsForm form input{
+    border: 1px solid #C1BBBB;
+    outline: none;
+    height: 50px;
+    padding: 5px 0 5px 15px;
+    width: 600px;
+    font-size: 18px;
+    color: #3751FE;
+    
+    /* position: relative; */
+}
+
+.detailsForm form label{
+    color: rgba(0, 0, 0, 0.60);
+    position: absolute;
+    padding: 0 10px 10px;
+    font-size: 14px;
+    /* 
+    padding: 10px 10px;
+    pointer-events: none;
+    transition: .3s ease-out; */
+    
+}
+
+.email{
+    margin: 0 0 20px;
+}
+
+.detailsForm form input:focus {
+    /* transform: translateY(-20px); */
+    border-left: 3px solid #3751FE;
+}
+
+.reset{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.reset label{
+    color: #0000009C;
+}
+
+
+@media screen and (max-width:1350px){
+    .detailsForm form input{
+        height: 50px;
+        width: 400px;
+    }
+}
+
+@media screen and (max-width:1240px){
+    .detailsForm form input{
+        height: 50px;
+        width: 400px;
+        font-size: 16px;    
+    }
+}
+
+
+
+@media screen and (max-width:950px){
+    .detailsForm form input{
+        height: 50px;
+        width: 650px;
+        font-size: 16px;    
+    }
+}
+
+@media screen and (max-width:600px){
+    .detailsForm form input{
+        height: 50px;
+        width: 300px;
+        font-size: 16px;    
+    }
+}
+
